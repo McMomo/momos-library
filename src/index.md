@@ -1,8 +1,6 @@
 ---
-title: Momos Library
+title:The Library of Momo
 layout: base.njk
 ---
-
-#The Library of Momo
 
 
