@@ -1,0 +1,17 @@
+{
+  "name": "momos-library",
+  "version": "0.1.0",
+  "description": "A library of momos homebrews as a dm for some adventures",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dnd"
+  ],
+  "author": "Momo",
+  "license": "ISC",
+  "dependencies": {
+    "@11ty/eleventy": "^1.0.1"
+  }
+}
