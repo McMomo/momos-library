@@ -1,7 +1,7 @@
 {
   "name": "momos-library",
   "version": "0.1.0",
-  "description": "A library of momos homebrews as a dm for some adventures",
+  "description": "A library of momos homebrews to dm some adventures",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

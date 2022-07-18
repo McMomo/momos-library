@@ -1,0 +1,5 @@
+{
+	"layout": "places",
+	"permalink": "/{{page.fileSlug}}/",
+	"tags": "places"
+}

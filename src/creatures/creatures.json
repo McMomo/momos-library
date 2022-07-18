@@ -1,0 +1,5 @@
+{
+	"layout": "creatures",
+	"permalink": "/{{page.fileSlug}}/",
+	"tags": "creatures"
+}

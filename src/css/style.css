@@ -1,0 +1,27 @@
+body {
+	background: #F1DFD7;
+	display: grid;
+    place-items: center;
+    font-family: monospace;
+}
+
+h1 {
+	display: none;
+}
+
+h2 {
+	text-align: center;
+	text-transform: uppercase;
+}
+
+header {
+	display: grid;
+	place-items: center;
+}
+
+main {
+	width: clamp(350px, 50%, 750px);
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+}
