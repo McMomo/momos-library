@@ -1,8 +1,8 @@
 body {
-	background: #F1DFD7;
+	background: #f1dfd7;
 	display: grid;
     place-items: center;
-    font-family: monospace;
+    font-family: sans-serif;
 }
 
 h1 {
