@@ -11,7 +11,7 @@ p {
 p::before{
   content: "";
   width: 0.1rem;
-  background-color: #487aff;
+  background-color: var(--orange);
 
   left: 10%;
   position: fixed;
@@ -28,7 +28,7 @@ p::after{
 
   position: absolute;
   left: 10%;
-  background: #487aff;
+  background: var(--orange);
 
   border-radius: 50%;
   z-index: 1;

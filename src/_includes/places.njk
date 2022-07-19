@@ -1,5 +1,9 @@
 ---
 layout: base.njk
+css: /css/places.css
 ---
 
-<article>{{ content | safe }}</article>
+<article>
+<img src="{{map}}" alt="A detailed Map of the current place" />
+{{ content | safe }}
+</article>

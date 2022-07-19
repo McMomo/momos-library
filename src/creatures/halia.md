@@ -1,41 +1,47 @@
 ---
-title: Halia
+title: Halia Thornton
 ---
 
-## Halia
+## Halia Thornton
 
-Halia ist die Gildenmeisterin in Phandalin. Dort versucht Sie mit ihren Gehilfen [Trovak](/trovak) und [Lander](/lander) Kontrolle über die Geschenisse innerhalb des Ortes zu bewahren. Dabei ist sie nicht nur Gildenmeisterin, sonderen auch eine Agentin der [Zhentarin](/zhentarin).
+Halia ist die Gildenmeisterin in Phandalin. Dort versucht Sie mit ihren Gehilfen [Trovak](/trovak) und [Lander](/lander) Kontrolle über die Geschehnisse innerhalb des Ortes zu bewahren. Dabei ist sie nicht nur Gildenmeisterin, sonderen auch eine Agentin der [Zhentarim](/zhentarim).
 
 Durch den Zwiespalt zwischen ihren Verpflichtungen als Agentin und den liebgewonnen Dorfbewohner\*innen hat sie angefangen regelmäßig zu viel zu trinken.
 Hierdurch ist Halia zwar selten bei klarem Verstand, konnte jedoch ihre Fähigkeiten als Kampfmönchin verbessern.
 
-Stimme: __Insert link to Audiofile here__
-
 ### Wertekasten
-
-#### Example
 ___
->*Medium humanoid*
+>*Mittelgroße Menschin, RN*
 >___
->- **Armor Class** 15 (unarmored defense)
->- **Hit Points** 65 (10d8 + 20)
->- **Speed** 30 ft.
+>- **Armor Class** 17 (unarmored defense)
+>- **Hit Points** 102
+>- **Speed** 12 m.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
->|12 (+1)|16 (+3)|14 (+2)|11 (+0)|14 (+2)|10 (+0)|
+>|13 (+1)|17 (+4)|20 (+5)|10 (+0)|16 (+3)|12 (+1)|
 >___
->- **Skills** Acrobatics +6, Perception +5, Stealth +6
+>- **Skills** Acrobatics +7, Wahrnehmung +6, Motiv erkennen +6
+>- **Saving throws** Str. 4 Dex. 6
 >- **Senses** passive Perception 15
 >- **Languages** Common
->- **Challenge** 5 (1,800 XP)
+>- **CR** 7
 >- **Proficiency Bonus** +3
 >___
 >***Unarmored Defense.*** While the monk is wearing no armor and wielding no shield, its AC includes its Wisdom modifier.  
 >
->### Actions
->***Multiattack.*** The monk makes two attacks.  
+>***Magische Fäuste*** Waffenlose Schläge sind magische Angriffe.
 >
->***Force Strike.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7 (1d8 + 3) force damage, and if the target is a creature, it must succeed on a DC 14 Dexterity saving throw or be knocked prone.  
+>#### Aktionen
+>**Multiattack.** Halia führt **drei** Nahkampfangriffe aus.  
 >
->***Dart.*** *Ranged Weapon Attack:* +6 to hit, range 20/60 ft., one target. *Hit:* 5 (1d4 + 3) piercing damage.
+>**Unbewaffneter Schlag** *Nahkampfangriff:* +6 zum treffen, 1,5 m. ein Ziel. *Hit:* 1W6 (1W8) + 4 Hiebschaden.
+>
+>**Schlaghagel (Aufladen 3-4)** *Nahkampfangriff:* Halia führt fünf unbewaffnete Schläge aus. Zusätzlich muss das Ziel einen Konstitutions Rettungswurf gegen SG 13, +1 für jeden Schlag der trifft, ausführen. Bei einem Fehlschlag, ist das Ziel liegend.
+>
+>**Betäubender Schlag** *Nahkampfangriff:* Trifft Hallia mit einem unbewaffneten Schlag, kann diese Aktion zusätzlich genutzt werden, das Ziel muss einen Konstitutions Rettungswurf gegen SG 13 ausführen. Bei einem Fehlschlag ist das Ziel bis zum Ende von Halias nächsten Zugs betäubt.
+>
+>### Reaktionen
+>**Block** Halia erhöht ihre RK um 3, wenn sie ein Nahkampfangriff treffen würde. Dafür muss sie den Angreifer sehen.
+>
+>**Betrunkenes Schwingen** Wenn eine Kreatur Halia bei einem Nahkampfangriff verfehlt, kann diese ihre Reaktion nutzen, um den Angriff auf eine andere Kreatur im Umkreis von 1,5 m. zu lenken.

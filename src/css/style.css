@@ -1,5 +1,12 @@
+:root {
+	--orange:  #ff6935;
+	--beige: #f1dfd7;
+	--blue: #487aff;
+	--baby-blue: #d4e4dd;
+}
+
 body {
-	background: #f1dfd7;
+	background: var(--beige);
 	display: grid;
     place-items: center;
     font-family: sans-serif;
@@ -24,4 +31,17 @@ main {
     display: flex;
     flex-direction: column;
     padding: 1rem;
+}
+
+a:link   {
+	color: var(--blue);
+}
+a:visited{
+	color: var(--blue);
+}
+a:hover  {
+	color: var(--baby-blue);
+}
+a:active {
+	color: var(--baby-blue);
 }
