@@ -1,6 +1,6 @@
 ---
 title: Fraktion - Zhentarim
-tags: fraktion
+tags: ['fraktion', 'quests', 'wip']
 ---
 
 ## Zhentarim

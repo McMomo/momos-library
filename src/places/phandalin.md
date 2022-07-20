@@ -1,6 +1,7 @@
 ---
 title: Phandalin
 map: https://5e.tools/img/adventure/DIP/004-map-phandalin.jpg
+tags: ['places', 'wip']
 ---
 
 ## Phandalin

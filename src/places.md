@@ -2,6 +2,7 @@
 layout: base.njk
 title: All the different places
 tags: navigation
+icon: /assets/007-placeholder.png
 ---
 
 ## All the different places

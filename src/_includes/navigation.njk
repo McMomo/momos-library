@@ -1,11 +1,19 @@
 ---
 layout: base.njk
+css: /css/navigation.css
 ---
 
 <nav>
 	{% for navigation in collections.navigation %}
 		<div class="nav_card">
-			<a href="{{ navigation.url }}">{{ navigation.data.title }}</a>
+			<a href="{{ navigation.url }}">
+				{# TODO: use alt text instead of if and label / specify font-size: 0 to nav_card > img #}
+				{% if navigation.data.icon %}
+				<img src="{{ navigation.data.icon }}" alt="icon representing {{ navigation.data.title }}" />
+				{% else %}
+				<label>{{ navigation.data.title }}</label>
+				{% endif %}
+			</a>
 			<img src="{{ navigation.data.teaser }}" alt="Teaser image representing {{ navigation.data.title }}" />
 		</div>
 	{% endfor %}

@@ -3,13 +3,13 @@ title: The Timeline of the current Adventure
 layout: base.njk
 tags: ['navigation','timeline']
 css: /css/timeline.css
+icon: /assets/002-wall-clock.png
 ---
 
-Folgende Inhalte mit einbinden:
+<!-- Folgende Inhalte mit einbinden:
 + https://dnd-revival.fandom.com/wiki/Kalender_des_Harptos
 + https://www.worldanvil.com/w/forgotten-realms-pyrowl/a/moon-phase-calendar-article
-Eventuell sogar als Teil des Headers oder der Übersichtsseite. Auf dieser werden dann in einer Kachel Datum Wochentag und Mondphase angezeigt.
-
+Eventuell sogar als Teil des Headers oder der Übersichtsseite. Auf dieser werden dann in einer Kachel Datum Wochentag und Mondphase angezeigt. -->
 
 Rückweg vom Holzfällerlager Richtung Phandalin und Kampf mit [Cryovain](/cryovain)
 
