@@ -5,6 +5,12 @@ tags: ['navigation','timeline']
 css: /css/timeline.css
 ---
 
+Folgende Inhalte mit einbinden:
++ https://dnd-revival.fandom.com/wiki/Kalender_des_Harptos
++ https://www.worldanvil.com/w/forgotten-realms-pyrowl/a/moon-phase-calendar-article
+Eventuell sogar als Teil des Headers oder der Übersichtsseite. Auf dieser werden dann in einer Kachel Datum Wochentag und Mondphase angezeigt.
+
+
 Rückweg vom Holzfällerlager Richtung Phandalin und Kampf mit [Cryovain](/cryovain)
 
 Ankunft und Kampf beim Holzfällerlager
