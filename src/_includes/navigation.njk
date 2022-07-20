@@ -1,0 +1,12 @@
+---
+layout: base.njk
+---
+
+<nav>
+	{% for navigation in collections.navigation %}
+		<div class="nav_card">
+			<a href="{{ navigation.url }}">{{ navigation.data.title }}</a>
+			<img src="{{ navigation.data.teaser }}" alt="Teaser image representing {{ navigation.data.title }}" />
+		</div>
+	{% endfor %}
+</nav>

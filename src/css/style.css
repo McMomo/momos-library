@@ -45,3 +45,30 @@ a:hover  {
 a:active {
 	color: var(--baby-blue);
 }
+
+nav {
+	display: grid;
+    grid-gap: 0;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+}
+
+.nav_card {
+	aspect-ratio: 1 / 1;
+	width: 100%;
+	display: grid;
+	place-items: center;
+	background: var(--baby-blue);
+}
+
+.nav_card * {
+	grid-area: 1 / 1 / 2 / 2;
+}
+
+.nav_card a {
+	margin:  0.5rem;
+	text-align: center;
+}
+
+.nav_card img {
+	font-size: 0;
+}
