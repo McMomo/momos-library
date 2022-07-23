@@ -4,12 +4,12 @@ body {
 
 main {
 	padding: 0;
-	width: clamp(350px, 100%, 750px);
+	width: clamp(320px, 100%, 750px);
 }
 
 nav {
 	display: grid;
-    grid-gap: 0;
+    grid-gap: 0.5rem;
     grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
     place-content: center;
 }
@@ -17,6 +17,7 @@ nav {
 @media only screen and (min-width: 444px) {
 	nav {
 		grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+		grid-gap: 1rem;
 	}
 
 }
@@ -37,12 +38,12 @@ nav {
 	height: 100%;
 	display: grid;
 	place-items: center;
-	/*background: var(--orange);*/
+	background: var(--dark-beige);
 }
 
 .nav_card a:hover {
 	opacity: 0.5;
-	/*background: var(--yellow);*/
+	background: var(--green-blue);
 }
 
 .nav_card a img {
