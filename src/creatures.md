@@ -2,7 +2,8 @@
 layout: base.njk
 title: Are you a friend or a fiend?
 tags: navigation
-icon: /assets/008-orc.png
+icon: /assets/gems_black.png
+color: --green-blue
 ---
 
 ## Are you a friend or a fiend?

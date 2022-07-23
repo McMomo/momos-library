@@ -9,7 +9,7 @@ main {
 
 nav {
 	display: grid;
-    grid-gap: 0.5rem;
+    grid-gap: 0;
     grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
     place-content: center;
 }
@@ -18,8 +18,13 @@ nav {
 	nav {
 		grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
 		grid-gap: 1rem;
+		margin: 1rem;
 	}
 
+}
+
+header {
+	display: none;
 }
 
 .nav_card {
@@ -46,8 +51,13 @@ nav {
 	background: var(--green-blue);
 }
 
-.nav_card a img {
-	height: 3rem;
+.nav_icon {
+	height: 6rem;
+	max-width: 100%;
+}
+
+.nav_teaser {
+	width: 100%;
 	aspect-ratio: 1/1;
 }
 

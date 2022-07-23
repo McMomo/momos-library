@@ -3,7 +3,8 @@ title: The Timeline of the current Adventure
 layout: base.njk
 tags: ['navigation','timeline']
 css: /css/timeline.css
-icon: /assets/002-wall-clock.png
+icon: /assets/arrow_black.png
+color: --orange
 ---
 
 <!-- Folgende Inhalte mit einbinden:

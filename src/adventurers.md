@@ -2,7 +2,8 @@
 layout: base.njk
 title: Everything for the dachshund, everything for the club!
 tags: navigation
-icon: /assets/013-adventure-game.png
+teaser: /assets/topo2_black.png
+color: --baby-blue
 ---
 
 ## Everything for the dachshund, everything for the club!

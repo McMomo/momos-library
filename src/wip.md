@@ -2,7 +2,8 @@
 layout: base.njk
 title: WIP
 tags: navigation
-icon: /assets/014-progress.png
+teaser: /assets/topo3_black.png
+color: --blue
 ---
 
 ## Wery important posts
