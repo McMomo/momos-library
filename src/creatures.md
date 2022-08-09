@@ -2,7 +2,7 @@
 layout: base.njk
 title: Are you a friend or a fiend?
 tags: navigation
-icon: /assets/gems_black.png
+icon: /assets/zombi_cat.png
 color: --green-blue
 ---
 

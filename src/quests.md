@@ -2,7 +2,8 @@
 layout: base.njk
 title: What did just happen?
 tags: navigation
-icon: /assets/waves_orange.png
+icon: /assets/ex_libris.png
+color: --yellow
 ---
 
 ## What did just happen?

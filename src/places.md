@@ -2,7 +2,7 @@
 layout: base.njk
 title: All the different places
 tags: navigation
-teaser: /assets/topo_grey.png
+teaser: /assets/topo4_white.png
 color: --dark-blue
 ---
 

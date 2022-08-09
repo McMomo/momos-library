@@ -2,8 +2,7 @@
 layout: base.njk
 title: Prepare yourself thursday is comming!
 tags: navigation
-icon: /assets/ex_libris.png
-color: --yellow
+icon: /assets/waves_orange.png
 ---
 
 ## Prepare yourself thursday is comming!

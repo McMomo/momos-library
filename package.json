@@ -6,6 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "npx @11ty/eleventy --serve",
+    "prebuild": "rimraf _site",
     "build": "npx @11ty/eleventy"
   },
   "keywords": [
@@ -15,5 +16,8 @@
   "license": "ISC",
   "dependencies": {
     "@11ty/eleventy": "^1.0.1"
+  },
+  "devDependencies": {
+    "rimraf": "^3.0.2"
   }
 }
