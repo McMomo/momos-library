@@ -12,6 +12,8 @@ color: --orange
 + https://www.worldanvil.com/w/forgotten-realms-pyrowl/a/moon-phase-calendar-article
 Eventuell sogar als Teil des Headers oder der Übersichtsseite. Auf dieser werden dann in einer Kachel Datum Wochentag und Mondphase angezeigt. -->
 
+Das erste Mal Harbin Wester gesehen und direkt eine Panikattacke bei ihm ausgelößt. Darauf folgt ein Wetttrinken und Faustkampf zwischen Halia und Kallista. Beide Auseinandersetzungen gewinnt Halia.s
+
 Rückweg vom Holzfällerlager Richtung Phandalin und Kampf mit [Cryovain](/cryovain)
 
 Ankunft und Kampf beim Holzfällerlager
